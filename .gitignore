@@ -539,3 +539,4 @@ lightning_logs/version_99/checkpoints/epoch=279.ckpt
 gpytorch/
 lightning_logs/
 T007.h5
+*.h5
